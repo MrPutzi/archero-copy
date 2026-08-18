@@ -1,0 +1,7 @@
+{
+  "name": "Archero Roguelite Game",
+  "description": "A 2D top-down action roguelite game inspired by Archero featuring attack-on-stand mechanics, procedural rooms, dynamic enemy AI, and skill stacking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
